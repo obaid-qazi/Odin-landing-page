@@ -10,7 +10,9 @@ This is a landing page built as part of my web development journey. It features 
 
 ## Preview
 
-Live Site: [Visit the Landing Page]([https://obaid123.github.io/landing-page-project](https://obaid-qazi.github.io/Odin-landing-page/))
+## Preview
+
+[Live Site: Visit the Landing Page](https://obaid-qazi.github.io/Odin-landing-page/)
 
 ![website image](images/website-preview.png)
 
